@@ -1,6 +1,8 @@
 # VIT GPA Calculator App
 
-The VIT GPA Calculator App is a mobile application developed using Flutter that helps students of Vellore Institute of Technology calculate their GPA for any given semester and their cumulative GPA for their degree. 
+The VIT GPA Calculator App is a mobile application developed using Flutter that helps students of Vellore Institute of Technology calculate their GPA for any given semester and their cumulative GPA for their degree.
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61AnMtOFU8L.png" width="50%" height="50%"/>
 
 ## Features
 
